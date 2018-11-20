@@ -12,6 +12,6 @@ The Almanac dispensers are old newspaper dispensers augmented with a locking mec
 # Parts
 
 # Schematic
-![Original is in Google Draw](/AR_Almanac_Schematic.jpg)
+![Original is in Google Draw](./AR_Almanac_Schematic.jpg)
 
 Add IDE download + setup instructions here, as well as an snapshot of the schematic.
