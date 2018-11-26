@@ -25,8 +25,9 @@ the Trinket must be removed from the circuit board.
 (Coming soon)
 
 # Pinouts
-![Adafruit Trinket 5v](https://learn.adafruit.com/assets/25645)
-[Pinout Details](https://learn.adafruit.com/introducing-trinket/pinouts)
+* You can find more detailed information on the Trinket 5v pinouts [here](https://learn.adafruit.com/introducing-trinket/pinouts).
+
+![Adafruit Trinket 5v](./trinket5.png)
 
 # Schematic
 ![Original is in Google Draw](./AR_Almanac_Schematic.jpg)
