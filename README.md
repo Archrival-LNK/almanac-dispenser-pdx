@@ -1,6 +1,8 @@
 # Almanac Dispenser PDX
 The Almanac dispensers are old newspaper dispensers augmented with a locking mechanism and a joystick. The contents of this repo are for the dispenser located in the **PDX** office.
 
+It is engineered to unlock by entering the correct combo using the jouystick. The inputs and combination successes/failures use LEDs to provide feedback to the user. The combination to unlock the door is able to be configured in the source code relatively easily.
+
 # Setting up Arduino IDE
 
 ### Download
